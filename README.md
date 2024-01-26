@@ -32,4 +32,4 @@ The project includes several SQL queries for data analysis:
 To use this project, clone the repository and import the `.sql` files into your SQL database management system.
 
 ```bash
-git clone https://github.com/adityashenoy3/Music-Streaming-Service-Analysis.git
+git clone https://github.com/adityashenoy3/SQL-Music-Streaming-Service-Analysis.git
